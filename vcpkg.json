@@ -1,0 +1,13 @@
+﻿{
+  "name": "math2d",
+  "version": "1.0.0",
+  "builtin-baseline": "58950f88544e4637524dbd6a01d0317cf4cb77fc",
+  "dependencies": [
+    "glfw3",
+    "glew",
+    {
+      "name": "imgui",
+      "features": ["glfw-binding", "opengl3-binding"]
+    }
+  ]
+}

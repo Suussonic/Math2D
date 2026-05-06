@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Math2D.vcxproj" Id="50efeffc-6921-48dc-9588-482df4004a11" />
+</Solution>

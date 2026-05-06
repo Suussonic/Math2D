@@ -1,0 +1,3 @@
+C:\HA\ESGI 3\MATH\Math2D\x64\Debug\glew32d.dll
+C:\HA\ESGI 3\MATH\Math2D\x64\Debug\glfw3.dll
+C:\HA\ESGI 3\MATH\Math2D\Math2D\x64\Debug\Math2D.vcxproj.Up2Date
